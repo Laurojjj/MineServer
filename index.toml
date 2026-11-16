@@ -291,11 +291,6 @@ hash = "3d70571a3f55ab9d923addc371e87440286436b15141abf1ae780fa90dcbcf7d"
 metafile = true
 
 [[files]]
-file = "mods/essential-permissions.pw.toml"
-hash = "f9654980dd02e3b2beabb80794f3de61e6aa9d204330bf880b184290b190acd1"
-metafile = true
-
-[[files]]
 file = "mods/experienced_crops.pw.toml"
 hash = "be457fdfc3dcd25a7e8e47845d687312fb2afca9c6cd5e6cba17d265cbdffeab"
 metafile = true
