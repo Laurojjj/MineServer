@@ -3,11 +3,11 @@ filename = "AlwaysShield-1.2.2+mc26.3-Fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "290201619aa2226aac28f0bfac3ad6280ed6d337"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/f5J5N4a3/versions/12nx2Vif/AlwaysShield-1.2.2%2Bmc26.3-Fabric.jar"
+hash-format = "sha512"
+hash = "7b95046f099fc83f3b74313f6a4940c420249fd2750dcf33af67aec2b0956ed4b72e197482b12725f42dadc1f7de165eef62c1f6e68801a2bf0a65d316290daa"
 
 [update]
-[update.curseforge]
-file-id = 8977619
-project-id = 1474537
+[update.modrinth]
+mod-id = "f5J5N4a3"
+version = "12nx2Vif"

@@ -1,13 +1,13 @@
 name = "Reflex AntiLag"
-filename = "reflex-fabric-1.1.6-26.3.jar"
-side = "both"
+filename = "reflex-fabric-1.1.6+26.3.jar"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "69eefcf83b39823bb92e3ee8f6212a847f88dc52"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WTVzusYD/versions/mZTKcG4A/reflex-fabric-1.1.6%2B26.3.jar"
+hash-format = "sha512"
+hash = "5760ee973fe056c39b1a91e1acb15b0b69611057ba7c5a8ac99924f299011c19a2fbb53797ad8e30d4e76d26b986799dfffffc65076c62b79665329eec78a0b0"
 
 [update]
-[update.curseforge]
-file-id = 9467267
-project-id = 1197629
+[update.modrinth]
+mod-id = "WTVzusYD"
+version = "mZTKcG4A"
