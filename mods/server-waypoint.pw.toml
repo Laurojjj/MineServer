@@ -1,0 +1,13 @@
+name = "Server Waypoint"
+filename = "server_waypoint-4.0.1-fabric-mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca52e9730dec7a88fe192c6b5708f853c218cc1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9349560
+project-id = 1416929

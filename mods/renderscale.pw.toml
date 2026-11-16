@@ -1,0 +1,13 @@
+name = "RenderScale"
+filename = "renderscale-2.0.0-beta.1-fabric+26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b8506f331d6bf2c1f9bd1e94c251bd718860c46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9207209
+project-id = 1172416

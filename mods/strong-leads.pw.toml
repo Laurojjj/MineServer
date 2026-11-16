@@ -1,0 +1,13 @@
+name = "Strong Leads"
+filename = "strong-leads-1.0.0+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BuedRdjG/versions/E0wzAReO/strong-leads-1.0.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "dd7fad3602c5a47da72978d271966dc3e88e8d6f7a77ab417f8fd8e04a68443539fdf75530dc90e908f26e2ff414affbf8139ec8b5de12cc55205a40dc7d2df9"
+
+[update]
+[update.modrinth]
+mod-id = "BuedRdjG"
+version = "E0wzAReO"

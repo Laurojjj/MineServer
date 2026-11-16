@@ -1,0 +1,13 @@
+name = "Simple Homing XP"
+filename = "simple-homing-xp-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6045c735a46b332c9c7ac1d3e683b274e557d8bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9164519
+project-id = 1417579

@@ -1,0 +1,13 @@
+name = "LibrGetter"
+filename = "librgetter-4.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6Ts2vJ13/versions/D6SerDD8/librgetter-4.0.1.jar"
+hash-format = "sha512"
+hash = "4acc9c53f347358b151d201b33da34bb43bcec07b0cfdc5bb5de897f44db17a6cc7f2a998224d17cf2f34177a811df4c3dd127737e2f6dd30efb6475d87d7b0c"
+
+[update]
+[update.modrinth]
+mod-id = "6Ts2vJ13"
+version = "D6SerDD8"

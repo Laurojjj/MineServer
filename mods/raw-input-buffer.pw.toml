@@ -1,0 +1,13 @@
+name = "Raw Input Buffer"
+filename = "RawInputBuffer-1.2.0+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jtbWrw3s/versions/s5ICRw3Q/RawInputBuffer-1.2.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "f3a512020e6f0cbdff5699dc046189e1f1e49d09621baea9273388efdd02fb03628634c342e3ebfd7c7fe9fec386d94ec70fb5e0638d74090fcfa84256d6b3d6"
+
+[update]
+[update.modrinth]
+mod-id = "jtbWrw3s"
+version = "s5ICRw3Q"

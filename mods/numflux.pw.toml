@@ -1,0 +1,13 @@
+name = "NumFlux"
+filename = "NumFlux-1.0.6-26.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Bm2WDXm/versions/tfF1H7ns/NumFlux-1.0.6-26.3-fabric.jar"
+hash-format = "sha512"
+hash = "2ba34cf4f39f6ff3f6b70c7cae90796e15e55f45899ce7a5662861c6161cd7ec4e6417559d86c3a3199e1479fd9d5fdf517fccc1492eb81bc485b74802b19af8"
+
+[update]
+[update.modrinth]
+mod-id = "1Bm2WDXm"
+version = "tfF1H7ns"

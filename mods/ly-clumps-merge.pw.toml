@@ -1,0 +1,13 @@
+name = "ClumpsMerge"
+filename = "ly-clumps-v1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e385b356af7a07d565655fa0dfafe6b8d1d6816"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7049936
+project-id = 1290648

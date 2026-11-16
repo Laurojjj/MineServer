@@ -1,0 +1,13 @@
+name = "Modern Networking"
+filename = "ModernNetworking-fabric-2.0.1+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c62cae67a27c7293d8db7c691e6f1c585b1daa8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8708982
+project-id = 1251794

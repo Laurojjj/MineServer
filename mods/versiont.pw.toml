@@ -1,0 +1,13 @@
+name = "Version't"
+filename = "versiont-library-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fPR7FdSl/versions/HMgMHJIG/versiont-library-1.3.2.jar"
+hash-format = "sha512"
+hash = "43cf2c4e69205151123bef4769735e3a2259255e0f552a7804c37db7b5bd2220c18a4316f3f77c8c1b4f2850124fc42e7efd2c29222cdc89cb149cf81b63266a"
+
+[update]
+[update.modrinth]
+mod-id = "fPR7FdSl"
+version = "HMgMHJIG"

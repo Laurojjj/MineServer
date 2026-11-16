@@ -1,0 +1,13 @@
+name = "Infinity and Mending"
+filename = "infinity-mending-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ntU7wRQ0/versions/MkApeeZs/infinity-mending-4.jar"
+hash-format = "sha512"
+hash = "663a06c777116e871731d5205d89afeb54f16d04401912f423f7f5c948386eead7a1805161a647113cf9f9fd374059802846cfff8e52892bbd78dee37df69984"
+
+[update]
+[update.modrinth]
+mod-id = "ntU7wRQ0"
+version = "MkApeeZs"

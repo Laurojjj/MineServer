@@ -1,0 +1,13 @@
+name = "ScalableLux"
+filename = "ScalableLux-fabric-mc26.3-0.3.0-alpha.0.6-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d51dcbe901452a1cb378139ca351009254e7ab0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8895516
+project-id = 1055925

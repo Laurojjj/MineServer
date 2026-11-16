@@ -1,0 +1,13 @@
+name = "PetProtect"
+filename = "petprotect-fabric-26.3-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LeqaEyxB/versions/Gkutwlyu/petprotect-fabric-26.3-2.0.0.jar"
+hash-format = "sha512"
+hash = "d5f5f250610314b754fab413182b05d6345c86ab69ebe1964ed8c7b2894835a3ecbb6bdfd7c8701a88f868ecb0beec2eefb168fbae5d724214a6b0ade0067867"
+
+[update]
+[update.modrinth]
+mod-id = "LeqaEyxB"
+version = "Gkutwlyu"

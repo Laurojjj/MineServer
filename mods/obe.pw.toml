@@ -1,0 +1,13 @@
+name = "Optimized Block Entities"
+filename = "obe-26.3-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9dd1c9994da0dbffdfee8c317f2da829ae25621"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9629696
+project-id = 1575743

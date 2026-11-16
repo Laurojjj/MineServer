@@ -1,0 +1,13 @@
+name = "Silicon"
+filename = "Silicon-1.21.X-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdNZOBlg/versions/hKu1Becn/Silicon-1.21.X-26.3.jar"
+hash-format = "sha512"
+hash = "504bd7fadeb6336d45be10d089af62bc25bb6ca2ed43a0e9a03ba702f8e158dec268daa2dbdd88cb7ddb351d0bece00146e719cc79bf408f9c52c6779057f33c"
+
+[update]
+[update.modrinth]
+mod-id = "MdNZOBlg"
+version = "hKu1Becn"

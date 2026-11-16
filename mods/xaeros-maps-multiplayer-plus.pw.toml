@@ -1,0 +1,13 @@
+name = "Xaero's Maps: Multiplayer+"
+filename = "xmmp-1.2.4+26.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89a95519e4adc698690d350cda98e1072b907e7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9347020
+project-id = 1525919

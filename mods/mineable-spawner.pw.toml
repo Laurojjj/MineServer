@@ -1,0 +1,13 @@
+name = "Mineable Spawner"
+filename = "mineable-spawner-v2.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e54e9d22661a491d368f3869dda01407fb0845e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9183340
+project-id = 1426687

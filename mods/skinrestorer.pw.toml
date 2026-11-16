@@ -1,0 +1,13 @@
+name = "Skin Restorer"
+filename = "skinrestorer-2.11.1-26.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "452e7c5cf7686986edfb3339e5439ac971908080"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9435770
+project-id = 443823

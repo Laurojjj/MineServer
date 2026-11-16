@@ -1,0 +1,13 @@
+name = "InstaRestock"
+filename = "InstaRestock-Mod-3.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5kZMR4tZ/versions/jNHjOplA/InstaRestock-Mod-3.0.0.jar"
+hash-format = "sha512"
+hash = "928c08d0aeb37001c8510211ce49521d2ce926e2c5336d6c409e0edad72a44ef8ff33ab59b492ac68e86ac84fb26f02640128441775181f291cdf51e60131d1b"
+
+[update]
+[update.modrinth]
+mod-id = "5kZMR4tZ"
+version = "jNHjOplA"

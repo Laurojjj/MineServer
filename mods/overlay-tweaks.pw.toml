@@ -1,0 +1,13 @@
+name = "Overlay Tweaks"
+filename = "overlaytweaks-2.0.4+26.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08635d1706af136caf030d81726894a6cef7d337"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9250964
+project-id = 1091693

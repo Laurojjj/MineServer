@@ -1,0 +1,13 @@
+name = "Reroll-Trades"
+filename = "reroll-trades-fabric-3.2.0-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X1SSxUD9/versions/4nNuRcQL/reroll-trades-fabric-3.2.0-26.3.jar"
+hash-format = "sha512"
+hash = "210ffdab7bcf60e9e93bb7fba7e497d545a4be8b40625c2fa6998bbf8a6236bc58eeef25fe7e222f6da90c7bff42a6ec11f02f972848995f724050ea55e7ea37"
+
+[update]
+[update.modrinth]
+mod-id = "X1SSxUD9"
+version = "4nNuRcQL"

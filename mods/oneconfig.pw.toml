@@ -1,0 +1,13 @@
+name = "OneConfig"
+filename = "OneConfig-26.3-fabric-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "440a33818b105476f51e312bd2235678cbaf96bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9582945
+project-id = 1148006

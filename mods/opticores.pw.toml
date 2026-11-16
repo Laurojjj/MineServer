@@ -1,0 +1,13 @@
+name = "Opticores"
+filename = "Opticores-v1.1.2.1+26.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5zhn04Hy/versions/XEugpX02/Opticores-v1.1.2.1%2B26.x.jar"
+hash-format = "sha512"
+hash = "20c244a5046dd04802b6bcb2b980952507207905a359157a7bea37bd674f9014d1fc03f4e005b03ace5cdac53a9a3f4cf34c7d214d883b79addad1e9b0a8a638"
+
+[update]
+[update.modrinth]
+mod-id = "5zhn04Hy"
+version = "XEugpX02"

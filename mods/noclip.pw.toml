@@ -1,0 +1,13 @@
+name = "noclip"
+filename = "noclip-1.5.0+26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4f12834d775552b23ba19bed3ab7c1e38756c54"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9063403
+project-id = 653377

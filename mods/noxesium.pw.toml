@@ -1,0 +1,13 @@
+name = "Noxesium"
+filename = "noxesium-fabric-3.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "027bffb136cfae6fd7aa5dd9cbab3979a5404140"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9026982
+project-id = 1166754

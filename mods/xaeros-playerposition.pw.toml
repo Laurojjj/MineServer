@@ -1,0 +1,13 @@
+name = "Xaeros playerposition"
+filename = "xaeros-playerposition-fabric-1.0.0-26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c117ba5456ac01b39073238bb3b2d80ea89ba00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8894730
+project-id = 1698183

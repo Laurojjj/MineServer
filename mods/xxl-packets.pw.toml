@@ -1,0 +1,13 @@
+name = "XXL Packets"
+filename = "xlpackets-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34e7ee1a82c575ed676a24993dd7dfa2628c03b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8259167
+project-id = 962921

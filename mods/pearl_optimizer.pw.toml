@@ -1,0 +1,13 @@
+name = "Pearl Optimizer"
+filename = "PearlOptimizer-26.1-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aSymSNSe/versions/kprM70XV/PearlOptimizer-26.1-26.3.jar"
+hash-format = "sha512"
+hash = "6d5997f37ca5ef3551e70b4f2f3dad39ce6396530cca8c6011c249dd4253b07c0c11cdca2addf80d639d6d129eaf4f56b17dc9f5f5c1de1855f363893fa67684"
+
+[update]
+[update.modrinth]
+mod-id = "aSymSNSe"
+version = "kprM70XV"

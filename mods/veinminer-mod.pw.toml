@@ -1,0 +1,13 @@
+name = "VeinMiner Mod"
+filename = "veinminer-fabric-2.14.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a92238f85461834cd0d1c06e6e3305472ca0e481"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9610358
+project-id = 1556559
