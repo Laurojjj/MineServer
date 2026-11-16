@@ -1,0 +1,13 @@
+name = "Lala Mods"
+author = "lala"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0eb88e780f4238175fe43e98699960213345367f4e8a1a46aa1c25916dec8c9f"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"
