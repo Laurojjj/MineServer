@@ -481,11 +481,6 @@ hash = "13c246587e795c33417da3356a8b114d91cb9c44f2a50d38a7669d32ff67df25"
 metafile = true
 
 [[files]]
-file = "mods/ly-clumps-merge.pw.toml"
-hash = "8e84adc94ff6a4812dbce7f8131f5a44dce1ea532ad15a8a576e154495153c3c"
-metafile = true
-
-[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "5e642bbc5832ee938253f84342e5804f8133fe7169ea75e1ebd2cdb5c19922aa"
 metafile = true
