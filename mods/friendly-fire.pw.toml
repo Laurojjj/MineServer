@@ -1,0 +1,13 @@
+name = "Friendly Fire"
+filename = "FriendlyFire-fabric-MC26.3-26.3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a62b90c8d1a22ce1591c1e0b5bd4e6cb3c5d1b87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8995689
+project-id = 255105

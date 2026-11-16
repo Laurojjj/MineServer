@@ -1,0 +1,13 @@
+name = "Compatible Sword Enchantments"
+filename = "compatible-sword-enchantments-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5capB7yt/versions/rkHwXVh8/compatible-sword-enchantments-2.jar"
+hash-format = "sha512"
+hash = "54a4b0f2ad4ba5f7512ff6642b7562bc23058aa059db8fe1192d884d637963a1854b059f2c22d8e414631f0b0a098b25927cd0baaa7179f7bb1b0801c9abf165"
+
+[update]
+[update.modrinth]
+mod-id = "5capB7yt"
+version = "rkHwXVh8"

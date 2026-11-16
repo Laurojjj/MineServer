@@ -1,0 +1,13 @@
+name = "Compose Multiplatform"
+filename = "compose-bundle-2.1.0-compose.1.13.0-alpha02.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb1e085a6227995961a604605eaa8ed352fe4d01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9378263
+project-id = 1569167

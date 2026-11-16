@@ -1,0 +1,13 @@
+name = "Better Bundle"
+filename = "better-bundle-1.5.5-mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YWokUZ1/versions/S9QP5pxn/better-bundle-1.5.5-mc26.3.jar"
+hash-format = "sha512"
+hash = "801ac467216b31fae918fee64361d67c494a5f6cab6ac5e5c3ebbc785d66c7230814e1e63da66640bc9fc234ed14856dc6fe0b7389031650924b8641aadde973"
+
+[update]
+[update.modrinth]
+mod-id = "6YWokUZ1"
+version = "S9QP5pxn"

@@ -1,0 +1,13 @@
+name = "Better Respawn"
+filename = "better-respawn-fabric-2.1.1+26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5f7631361206e6a6a31425891787028b68c8eb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9106603
+project-id = 340907

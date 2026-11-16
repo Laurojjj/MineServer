@@ -1,0 +1,13 @@
+name = "Always Shield"
+filename = "AlwaysShield-1.2.2+mc26.3-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "290201619aa2226aac28f0bfac3ad6280ed6d337"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8977619
+project-id = 1474537

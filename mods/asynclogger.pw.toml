@@ -1,0 +1,13 @@
+name = "Async Logger"
+filename = "asynclogger-2.2.3+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d578e9e067c8f598bb5eee60b8a1d575edbbcfdf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9173776
+project-id = 1491426

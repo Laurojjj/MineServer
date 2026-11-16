@@ -1,0 +1,13 @@
+name = "Almanac Lib"
+filename = "almanac-fabric-26.3-1.26.11.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc47bd0e0dd428952aefe730c3ef0f0ee6019d39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9416013
+project-id = 1115285

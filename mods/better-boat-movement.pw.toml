@@ -1,0 +1,13 @@
+name = "better-boat-movement"
+filename = "better-boat-movement-3.1.0-26.3+fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d016f62f2cdd42e103dcd165a71eae8ff587c0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8896636
+project-id = 1244671

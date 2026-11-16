@@ -1,0 +1,13 @@
+name = "Actually Harvest (right click and XP)"
+filename = "actuallyharvest-26.3-fabric-1.1.7.6-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b2673debd00afefc4633f70215c63e101615da0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9001489
+project-id = 1076278

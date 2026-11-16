@@ -1,0 +1,13 @@
+name = "Fast Trading"
+filename = "FastTrading-0.2.5+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ht0RRAt0/versions/U0I6kWma/FastTrading-0.2.5%2B26.3.jar"
+hash-format = "sha512"
+hash = "2eb4ef2c65065a5e34d9727cfdf19452bd7c334fa69793d2daee08efd5a88df147f64737f9446ea7d667e6011eb0db9305fff3f9b91c1ff272e9351240c7b072"
+
+[update]
+[update.modrinth]
+mod-id = "Ht0RRAt0"
+version = "U0I6kWma"

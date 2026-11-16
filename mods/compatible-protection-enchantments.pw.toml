@@ -1,0 +1,13 @@
+name = "Compatible Protection Enchantments"
+filename = "compatible-protection-enchantments-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ldjV6Y1m/versions/gHe0mprq/compatible-protection-enchantments-2.1.jar"
+hash-format = "sha512"
+hash = "82d705caf125e62de1fd1e9b56d6de20d2ea9dc278972648cdff85d2c0b6b51db9062654e56b5de780818a236e5201ec95fa441cc7397565648bfaeb444745da"
+
+[update]
+[update.modrinth]
+mod-id = "ldjV6Y1m"
+version = "gHe0mprq"

@@ -1,0 +1,13 @@
+name = "Flat EXP Costs"
+filename = "consistentexpcost-26.3-fabric-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5487310722289e49399b0da90e8dabe64bd5575"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9375782
+project-id = 1286450

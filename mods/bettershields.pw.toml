@@ -1,0 +1,13 @@
+name = "BetterShields"
+filename = "bettershields-fabric-1.12.0+mc26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UpdayxEt/versions/t1ZFREOG/bettershields-fabric-1.12.0%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "4e7ee537c08ec3c7230488d9c541e3df11ed4dee674885b1072525a27bfb0138abbba67e85f0675be298da69c61420d1c07851f35d3ac910e30a635bf117395c"
+
+[update]
+[update.modrinth]
+mod-id = "UpdayxEt"
+version = "t1ZFREOG"

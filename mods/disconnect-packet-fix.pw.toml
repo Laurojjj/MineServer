@@ -1,0 +1,13 @@
+name = "Disconnect Packet Fix"
+filename = "disconnect-packet-fix-fabric-2.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f42a4a4594bb313b7e6313719f592cb65c27f1dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8909407
+project-id = 1173964

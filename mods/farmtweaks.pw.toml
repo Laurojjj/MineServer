@@ -1,0 +1,13 @@
+name = "FarmTweaks"
+filename = "farmtweaks-2.3a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/okvumKPb/versions/1Rwl4l40/farmtweaks-2.3a.jar"
+hash-format = "sha512"
+hash = "6d362761dc6331825fd0c4d89b248a067795784c11dc8309132cd38cd809edb957275d8a43a18542cc603a2d65e091272ea10e435415f05889f6b3dbba49d36e"
+
+[update]
+[update.modrinth]
+mod-id = "okvumKPb"
+version = "1Rwl4l40"

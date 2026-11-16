@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-fabric-MC26.3-26.3.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df05cffc9b065262262e649dd90da0defb70f31a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8993538
+project-id = 250419

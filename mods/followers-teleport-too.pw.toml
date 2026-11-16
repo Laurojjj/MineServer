@@ -1,0 +1,13 @@
+name = "Followers Teleport Too"
+filename = "followersteleporttoo-26.3.0-3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5a93853d981a9822867623d98996e38f96a5c5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9225352
+project-id = 682198

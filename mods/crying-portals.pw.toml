@@ -1,0 +1,13 @@
+name = "Crying Portals"
+filename = "cryingportals-26.3.0-3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4702af245a4a273743e8655726dda4be222e22b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9385095
+project-id = 547844

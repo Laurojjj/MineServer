@@ -1,0 +1,13 @@
+name = "Better Search"
+filename = "bettersearch-fabric-26.3-1.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af1ca3e9d838bc9a9567b8ece29e873c6ff13305"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9605068
+project-id = 1640741

@@ -1,0 +1,13 @@
+name = "Fast Smelt"
+filename = "fast-smelt-v1.1.2-26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f7305301b0ba743cea834fd9bbd37ef8e9afad3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8958659
+project-id = 1398913

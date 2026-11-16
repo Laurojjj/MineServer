@@ -1,0 +1,13 @@
+name = "Easy Magic"
+filename = "easymagic-v26.3.1-mc26.3.x-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0671ac037931177f2cf626530d2f266ddf732d5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9582306
+project-id = 456239
